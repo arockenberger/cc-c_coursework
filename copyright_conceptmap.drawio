@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-02T17:17:17.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="WaaRvAzHx2-bHm40M5Tt" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T17:26:52.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="sUcRuSKH6i3aZSyrZ9-n" version="12.6.2" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1404" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#9AC7BF" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-48" value="I recommend that you read up about copyright law on Wikipedia, the information there is trustworthy and up to date and actually much easier to read than legal texts…&lt;br&gt;For the Norwegian laws, there is a website called lovdata.no where you can search for åndsverksloven. It even has a few examples to help you understand!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="360" y="1310" width="250" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-49" value="&lt;h1&gt;Copyright in Norway&lt;/h1&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;Norwegian copyright differs in certain regards from the minimum standards set by the Berne Convention and from copyright in the English-speaking parts of the world and the former Commonwealth.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;The copyright term is the life of the creator plus 70 years. Copyright, or &quot;opphavsrett&quot; is part of a set of intellectual work laws, called &quot;åndsverksloven&quot;, which has been significantly revised in 2018. Among other things, it also regulates software, code, and data.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;The law in its latest version can be accessed online via the link:&lt;/p&gt;&lt;a href=&quot;https://lovdata.no/dokument/NL/lov/2018-06-15-40&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;https://lovdata.no/dokument/NL/lov/2018-06-15-40&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="660" y="732" width="420" height="640" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
