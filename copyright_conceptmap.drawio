@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-02T13:03:42.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="oT5Smw7PIB8Dg_iv9MIZ" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T13:09:07.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="W3r5-jEJi3Ul30NFSolH" version="12.6.2" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="983" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#9AC7BF" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="lcUeHcnI_oaIsX3chBQn-15" value="– A Conversation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="430" y="-100" width="220" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-17" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Copyright Law&lt;/h1&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-17" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Copyright Law&lt;/h1&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;Copyright law regulates how, by whom and under what conditions a creative work can be used for what purpose. First created in the 18th century in Great Britain, it exists with some variation all around the world. It is, however, not an &#39;international&#39; law but enacted and enforced through national laws. Since the 19th century, efforts have been made to standardize copyright law globally and today we have pretty similar copyright law in the vast majority of countries.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="60" y="-20" width="340" height="240" as="geometry"/>
         </mxCell>
       </root>
