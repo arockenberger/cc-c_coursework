@@ -1,23 +1,14 @@
-<mxfile host="www.draw.io" modified="2020-02-02T17:26:52.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="sUcRuSKH6i3aZSyrZ9-n" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T17:44:35.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="y1TiRpCJ2te48E6gvasd" version="12.6.2" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1404" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#9AC7BF" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-14" value="Copyright Law" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="456.33" y="-810" width="200" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-15" value="– A Conversation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="526.33" y="-770" width="220" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-280" width="1080" height="1780" as="geometry"/>
+          <mxGeometry x="40" y="-800" width="1080" height="2320" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="-710" width="1080" height="410" as="geometry"/>
-        </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=24;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="lcUeHcnI_oaIsX3chBQn-24">
-          <mxGeometry width="1080" height="400" as="geometry"/>
+          <mxGeometry x="30" y="-720" width="1080" height="410" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-12" value="For one thing, the purpose of copyright is to give creators an incentive to create new works – instead of only reproducing others&#39; work." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;" vertex="1" parent="lcUeHcnI_oaIsX3chBQn-24">
           <mxGeometry x="752.3595505617978" y="30" width="254.8314606741573" height="120" as="geometry"/>
@@ -109,8 +100,14 @@
         <mxCell id="lcUeHcnI_oaIsX3chBQn-48" value="I recommend that you read up about copyright law on Wikipedia, the information there is trustworthy and up to date and actually much easier to read than legal texts…&lt;br&gt;For the Norwegian laws, there is a website called lovdata.no where you can search for åndsverksloven. It even has a few examples to help you understand!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="360" y="1310" width="250" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-49" value="&lt;h1&gt;Copyright in Norway&lt;/h1&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;Norwegian copyright differs in certain regards from the minimum standards set by the Berne Convention and from copyright in the English-speaking parts of the world and the former Commonwealth.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;The copyright term is the life of the creator plus 70 years. Copyright, or &quot;opphavsrett&quot; is part of a set of intellectual work laws, called &quot;åndsverksloven&quot;, which has been significantly revised in 2018. Among other things, it also regulates software, code, and data.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;The law in its latest version can be accessed online via the link:&lt;/p&gt;&lt;a href=&quot;https://lovdata.no/dokument/NL/lov/2018-06-15-40&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;https://lovdata.no/dokument/NL/lov/2018-06-15-40&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="660" y="732" width="420" height="640" as="geometry"/>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-49" value="&lt;h1&gt;Copyright in Norway&lt;/h1&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;Norwegian copyright differs in certain regards from the minimum standards set by the Berne Convention and from copyright in the English-speaking parts of the world and the former Commonwealth.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;The copyright term is the life of the creator plus 70 years. Copyright or &quot;opphavsrett&quot; is part of a set of intellectual work laws, called &quot;åndsverksloven&quot;, which has been significantly revised in 2018. Among other things, it also regulates software, code, and data.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;The law in its latest version can be accessed online via the link:&lt;/p&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;a href=&quot;https://lovdata.no/dokument/NL/lov/2018-06-15-40&quot;&gt;https://lovdata.no/dokument/NL/lov/2018-06-15-40&lt;/a&gt;&lt;br&gt;&lt;br&gt;Even though Norwegian copyright can be seen as rather restrictive and its term is rather long, there are quite a few exceptions and limitations to it. Apart from the freedom to cite from a work, it is also permitted to parody a work and to critique it. An important exception is the reproduction of works under copyright for private use, as it is explicated in Article 26. Another important exception is the reproduction or broadcasting of art in the public sphere: it is allowed without permission to photograph art pieces found in public places and to spread them via Social Media or use them in articles in the Wikipedia.&lt;br&gt;&lt;br&gt;Another example is the rule for legal deposit, or &quot;pliktavlevering&quot;, where a copy of all publicly available works has to be delivered to the National Library of Norway where it enters the public record. With the digitization program of the National Library, all these records are made digitally available, too. Within the borders of Norway, every person has access to all records in digital form up to the year 2000. All newer content can be accessed in the National Library or in public libraries.&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="660" y="710" width="420" height="777" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-14" value="Copyright Law" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="438.86" y="-800" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-15" value="– A Conversation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="508.86000000000007" y="-760" width="220" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
