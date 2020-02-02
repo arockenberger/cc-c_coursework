@@ -1,17 +1,17 @@
-<mxfile host="www.draw.io" modified="2020-02-02T13:23:54.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="nMJDrvTR2GmFqqt84KHR" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T13:28:07.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Ksgy4jeoqitF8Nsixvc5" version="12.6.2" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="983" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#9AC7BF" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=24;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-40" width="890" height="530" as="geometry"/>
+          <mxGeometry x="40" y="-40" width="890" height="400" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-12" value="For one thing, the purpose of copyright is to give creators an incentive to create new works – instead of only reproducing others&#39; work." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="690" width="150" height="150" as="geometry"/>
+          <mxGeometry x="660" y="-10" width="210" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-13" value="What is the purpose of copyright?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;flipV=0;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-20" width="150" height="80" as="geometry"/>
+          <mxGeometry x="450" y="-20" width="190" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-14" value="Copyright Law" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="360" y="-140" width="200" height="40" as="geometry"/>
@@ -19,23 +19,20 @@
         <mxCell id="lcUeHcnI_oaIsX3chBQn-15" value="– A Conversation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="430" y="-100" width="220" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-17" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Copyright Law&lt;/h1&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;Copyright law regulates how, by whom and under what conditions a creative work can be used for what purpose. First created in the 18th century in Great Britain, it exists with some variation all around the world. It is, however, not an &#39;international&#39; law but enacted and enforced through national laws. Since the 19th century, efforts have been made to standardize copyright law globally and today we have pretty similar copyright law in the vast majority of countries.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-20" width="340" height="170" as="geometry"/>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-17" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Copyright Law&lt;/h1&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;Copyright law regulates how, by whom, and under what conditions a creative work can be used for what purpose.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;First created in the 18th century in Great Britain, it exists today with some variation all around the world. It is, however, not an &#39;international&#39; law but enacted and enforced through national laws.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;Since the 19th century, efforts have been made to standardize copyright law globally and today we have pretty similar copyright law in the vast majority of countries.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-20" width="340" height="210" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-18" value="That sounds like a rather Utilitarian rationale. Are there any alternatives?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="70" width="150" height="100" as="geometry"/>
+          <mxGeometry x="450" y="70" width="190" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-19" value="Yes, what is today most often considered to be the main purpose of copyright is the protection of authors&#39; rights.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;position2=0.48;" vertex="1" parent="1">
-          <mxGeometry x="690" y="160" width="150" height="130" as="geometry"/>
+          <mxGeometry x="660" y="120" width="210" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-20" value="Do you mean to ensure that the creator of a work is attributed and no one can edit it or change it around without permission?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="190" width="150" height="130" as="geometry"/>
+          <mxGeometry x="450" y="170" width="190" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-21" value="Yes, exactly! Some countries even grant moral rights that are supposed to protect the relation between a creator and their work.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="690" y="310" width="150" height="130" as="geometry"/>
-        </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-22" value="&lt;h1 style=&quot;font-size: 12px&quot;&gt;Copyright Law&lt;/h1&gt;&lt;p style=&quot;font-size: 12px&quot;&gt;Copyright law regulates how, by whom and under what conditions a creative work can be used for what purpose. First created in the 18th century in Great Britain, it exists with some variation all around the world. It is, however, not an &#39;international&#39; law but enacted and enforced through national laws. Since the 19th century, efforts have been made to standardize copyright law globally and today we have pretty similar copyright law in the vast majority of countries.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="340" height="170" as="geometry"/>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-21" value="Yes, exactly! Some countries even grant moral rights in order to protect the relation between a creator and their work.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="210" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
