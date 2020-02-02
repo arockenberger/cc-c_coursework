@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-02T16:43:54.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="M_JVSN3bnqAB-U5Zs25_" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-02T17:17:17.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="WaaRvAzHx2-bHm40M5Tt" version="12.6.2" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1404" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#9AC7BF" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="526.33" y="-770" width="220" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-280" width="1080" height="990" as="geometry"/>
+          <mxGeometry x="40" y="-280" width="1080" height="1780" as="geometry"/>
         </mxCell>
         <mxCell id="lcUeHcnI_oaIsX3chBQn-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="-710" width="1080" height="410" as="geometry"/>
@@ -82,11 +82,32 @@
         <mxCell id="lcUeHcnI_oaIsX3chBQn-39" value="Right. You see, copyright is &#39;attached&#39; to a creator, that means, it will eventually expire. Since quite some time ago, it has been such that copyright of a work expires 50 years after the death of its creator. But there are many countries where the copyright term is actually life + 70 years. In Mexico, it is even life + 100 years!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="250" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-40" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-40" value="So, the creator must be long dead before a work will enter the public domain. That&#39;s quite a long period in which no one can do anything with it. What if it is so important that everyone should have seen it or read it? What about the people who cannot afford buying it?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="620" width="250" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="lcUeHcnI_oaIsX3chBQn-41" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="660" y="270" width="420" height="370" as="geometry"/>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-41" value="&lt;h1&gt;Exceptions and Limitations to Copyright&lt;/h1&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;Some uses of a copyrighted work do not require the permission of its creator or the rights holder. This means that if one is using a work still under copyright, the copyright is not infringed. The law tries to find a balance between the rights of the creator to protect their work and exploit it – and the public and its interest in having access to and making use of the work.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;Exceptions to copyright are different from country to country. Some countries list specific activities that are allowed, while others have guidelines about what is allowed that eventually need to be determined in a court of law.&lt;/p&gt;&lt;p style=&quot;font-size: 15px&quot;&gt;Most countries also have compulsory licensing schemes that are installed to make certain uses of works easier without risking copyright infringement. This is often done by paying a fee.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="420" height="430" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-42" value="You are right, it is a long time. And even though the copyright is there to protect the intellectual property of creators and to stimulate the creation of new works, there are also quite a few important exceptions and limitations to copyright." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="250" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-43" value="You mean… like citations? I have done that in the article that I wrote for the community magazine!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="810" width="250" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-44" value="Yes, citations are always allowed. Copyright doesn&#39;t extend to that. There is much more though! You probably have heard about &#39;Fair Use&#39;. Fair Use is a legal principal in the United States that allows certain uses of copyrighted material without asking for permission. Most countries in the world have a version of it, but there can be quite a few differences." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="250" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-45" value="I live in Norway. Do you happen to know if Norway also has something like fair use?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="990" width="250" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-46" value="In Norway, copyright is called &quot;opphavsrett&quot; and it is part of something called &quot;Åndsverksloven&quot;, the law about intellectual works. It gives creators a lot of protection of their works, but it also is quite clear about what fair use one can make. &lt;br&gt;For example, you can always cite a work and you are always allowed to make a private copy of it for your own use. You are also always allowed to adapt a work to make it accessible for people with disabilities.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1070" width="250" height="230" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-47" value="Thank you! Do you know where I can find out more about this?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1120" width="250" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="lcUeHcnI_oaIsX3chBQn-48" value="I recommend that you read up about copyright law on Wikipedia, the information there is trustworthy and up to date and actually much easier to read than legal texts…&lt;br&gt;For the Norwegian laws, there is a website called lovdata.no where you can search for åndsverksloven. It even has a few examples to help you understand!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeWidth=2;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1310" width="250" height="170" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
